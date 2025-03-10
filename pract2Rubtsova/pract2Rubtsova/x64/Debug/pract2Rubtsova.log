@@ -1,0 +1,4 @@
+﻿  pract2Rubtsova.cpp
+C:\Users\User\Desktop\pract2Rubtsova\pract2Rubtsova.cpp(43,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\pract2Rubtsova\pract2Rubtsova.cpp(45,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pract2Rubtsova.vcxproj -> C:\Users\User\Desktop\pract2Rubtsova\x64\Debug\pract2Rubtsova.exe
